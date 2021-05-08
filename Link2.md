@@ -87,7 +87,8 @@ https://www.javatpoint.com/sqlite-tutorial
 https://www.tutorialspoint.com/sqlite/sqlite_installation.htm
 
 
-
+#Plugins vsCode
+https://gist.github.com/Klerith/67058c9ad01e32214901fab5f664ec4f
 
 
 
